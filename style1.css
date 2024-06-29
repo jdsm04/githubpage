@@ -30,7 +30,7 @@ img{
 }
 
 .container {
-    
+    margin.bottom: 10px;
     background-color: #0C0C15;
     box-shadow: -5px 5px 10px #F1F0F0;
     box-sizing: border-box;
@@ -48,7 +48,6 @@ img{
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-
     color: #e2e2e2;
     text-align: center;
     text-shadow: 0 0 5px;
